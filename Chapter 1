@@ -6,4 +6,8 @@ Action = input ("As you look around you, you see an elf warrior on your left and
 if Action == "left":
 elif Action == "right":
 Else:
-    Print ("You have to speak to one of them. It's important for you to progress")
+    Print ("You have to speak to one of them. It's important for you so you can progress to the next chapter")
+
+# As you speak to the barbarian, she tells you that she and the elf got out of the tavern with a quest
+
+# When you speak to the elf, he tells you that the quest demanded your assistance
