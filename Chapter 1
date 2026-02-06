@@ -1,0 +1,8 @@
+# You start off in a cottage attached to a tavern, you hear two voices speaking to you
+Name = input ("Type your name: ")
+Print ("Welcome adventurer", Name, "to this dungeon quest!")
+Action = input ("As you look around you, you see an elf warrior on your left and a dwarf barbarian on your right. Who do you speak with first")
+if Action == "left":
+elif Action == "right":
+Else:
+    Print ("You have to speak to one of them. It's important for you to progress")
