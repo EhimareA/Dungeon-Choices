@@ -20,6 +20,7 @@ Else:
 # Do I need to have functions for sword and axe?
 
 # What is the chapter going to look like? Should there just be a destination to go to? Idea: They are going to the baron's keep. What will be the conversation there?
-
+# Should the heroes take a carriage?
+# When they get to the keep, what of the baron's do they interact with? A crystal?
 if __name__ == 'main':
     main()
