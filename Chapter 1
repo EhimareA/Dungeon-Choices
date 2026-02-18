@@ -3,8 +3,10 @@ Name = input ("Type your name: ")
     Print ("Welcome adventurer", Name, "to this dungeon quest!")
 
 Action = input ("As you look around you, you see an elf warrior on your left and a dwarf barbarian on your right. Who do you speak with first")
-if Action == "left":
-elif Action == "right":
+if: 
+Action == "left":
+elif:
+Action == "right":
 Else:
     Print ("You have to speak to one of them. It's important for you so you can progress to the next chapter")
 
@@ -13,7 +15,11 @@ Else:
 # When you speak to the elf, he tells you that the quest demanded your assistance
 
 
+# Before you leave with the elf, what do you take with you?
 
+# Do I need to have functions for sword and axe?
+
+# What is the chapter going to look like? Should there just be a destination to go to? Idea: They are going to the baron's keep. What will be the conversation there?
 
 if __name__ == 'main':
     main()
