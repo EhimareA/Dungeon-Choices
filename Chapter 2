@@ -1,1 +1,5 @@
-# What aspect of Python do we want to focus on? Arrays?
+# What aspect of Python do we want to focus on? Lists
+LIST = wine
+wine = [apple, orange, blackberry, kiwi]
+
+print
